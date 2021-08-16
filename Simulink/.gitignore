@@ -1,0 +1,8 @@
+/.vscode
+*.eep
+*.elf
+*.hex
+*.slxc
+*.old
+!/Simulink
+/Simulink/**
