@@ -7,6 +7,8 @@ by Erald Bardhollari, Matthew Hait, Shyam Sundar Batagnalli Thimmasetty
 
 This projecy is for ECE-4520 Automotive Mechatronics I at Oakland University. The Universal Autonomous Ground Vehicle (UAGV) is a ground up design introducing core features of the implementation of an autonomous vehicle. These features include optical and ultrasonic sensors. An electric small scale vehicle was developed to facilitate these sensors and hardware to demonstrate fully autonomous control. The features of the autonomous vehicle are able to conduct adaptive cruise control, collision avoidance, and stop light recognition. This system can be used to develop autonomous vehicles or to upgrade non-autonomous vehicles.
 
+![image](https://user-images.githubusercontent.com/32418774/129795241-e170ee5e-54d1-4606-a1fe-028787cdecdb.png)
+
 ## Components
 - Arduino Uno R3
 - PixyCam 2
